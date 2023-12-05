@@ -51,3 +51,9 @@ saascoastguard0002.correio.biz
 saasmilter0012.correio.biz
 s-install.avcdn.net
 www.avast.com
+smtp203t19f153.saaspmta0002.correio.biz
+saasmilter0012.correio.biz
+saasqueue0003.correio.biz
+www.avast.com
+saascoastguard0002.correio.biz
+s-install.avcdn.net
