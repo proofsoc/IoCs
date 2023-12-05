@@ -33,3 +33,9 @@ images2.imgbox.com
 wvw1.resgatevalores.top
 er2f.clientepagaemdia.com
 ohv4.tudoexcelente.com
+www.avast.com
+saascoastguard0002.correio.biz
+saasmilter0012.correio.biz
+smtp203t19f153.saaspmta0002.correio.biz
+saasqueue0003.correio.biz
+s-install.avcdn.net
