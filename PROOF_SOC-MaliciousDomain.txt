@@ -155,3 +155,4 @@ medialog.top
 p2020.xyz
 vdsm.xyz
 dbclave.info
+ntdetect.com
