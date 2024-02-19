@@ -1,4 +1,3 @@
-ubuntu.members.linode.com
 novoemailn1.v6.rocks
 novoemailn1.v6.rocks
 novoemailn1.v6.rocks
