@@ -1,7 +1,6 @@
 rev.poneytelecom.eu
 rev.poneytelecom.eu
 rev.poneytelecom.eu
-rev.poneytelecom.eu
 sd-161612.dedibox.fr
 sd-161612.dedibox.fr
 sd-161612.dedibox.fr
