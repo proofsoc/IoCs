@@ -268,3 +268,5 @@ Win32/Spy.Ousaban.G
 JS/TrojanDownloader.Banload.AAP
 Win32/Spy.Ousaban.W
 Win32/Spy.Ousaban.AB
+http://38.135.122.130/agent64.bin
+http://bluetechsupply.com/ro.css
