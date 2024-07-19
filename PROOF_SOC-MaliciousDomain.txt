@@ -30,3 +30,5 @@ bsod.run
 bsodfriday.com
 cyberstrike.online
 fix-crowdstrike-apocalypse.com
+crowdstrikefix.zip
+crowdstrikebug.com
