@@ -85,3 +85,5 @@ crowdstrike.orora.group/
 sinkhole-d845c7b471d9adc14942f95105d5ffcf.crowdstrikeupdate.com/
 crowdstrike.okta.com/app/coupa/exkqmsghe0qkvea070x7/sso/saml
 ec2-3-145-180-193.us-east-2.compute.amazonaws.com/
+https://myvisit.alteksecurity.org/t
+https://temp.sh/szAyn/sys.exe
