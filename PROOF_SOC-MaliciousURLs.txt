@@ -1,5 +1,3 @@
-http://38.135.122.130/agent64.bin
-http://bluetechsupply.com/ro.css
 https://pastebin.com/raw/rsKSXpGQ
 https://pastebin.com/raw/UqLSs2Fr
 https://pastebin.com/raw/SB9rQiH4
