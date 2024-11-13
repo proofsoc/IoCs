@@ -52,3 +52,6 @@ crowdstrike.okta.com/app/coupa/exkqmsghe0qkvea070x7/sso/saml
 ec2-3-145-180-193.us-east-2.compute.amazonaws.com/
 https://myvisit.alteksecurity.org/t
 https://temp.sh/szAyn/sys.exe
+http://5.255.117.134
+http://74.50.84.181
+http://94.158.244.69
