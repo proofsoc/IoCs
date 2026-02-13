@@ -26667,3 +26667,4 @@ http://51.20.147.239/nordea
 http://51.20.147.239/danske
 https://svvedbank-ee.mandalaekszer.hu/D1Q6F249K0aQrZAA8BR
 http://cmdt.free.fr/PrQAsQxz5EtRKlWI4AvfRWf
+https://g20206-personal-projects-appwrite-project.appwrite.network/
