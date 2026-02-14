@@ -26850,6 +26850,9 @@ http://115.55.186.62:39065/bin.sh
 http://115.49.75.59:51483/i
 http://115.56.114.213:34036/bin.sh
 http://59.96.142.232:50630/bin.sh
+https://ledger.setuptransactioncheck.com/
+https://trezor.authentication-check.io/
+https://trezor.authentication-check.io/black/api/send.php
 https://amorphophytewga.info/admin/pdigital.php
 https://amorphophytewga.info/
 https://skuneager.info/admin/pdigital.php
