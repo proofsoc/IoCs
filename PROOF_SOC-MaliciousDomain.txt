@@ -1,5 +1,3 @@
-telepas-ae.com
-insgroup.uk
 productpi121.icu
 polyfill.io
 cdn.polyfill.io
